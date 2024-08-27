@@ -1,19 +1,4 @@
 library(Stat2Data)
-library(GGally)
-library(ggcorrplot)
-library(factoextra)
-library(cluster)
-library(dendextend)
-library(mclust)
-library(CCA)
-library(CCP)
-library(yacca)
-library(MASS)
-library(klaR)
-library(psych)
-library(ggplot2)
-
-library(Stat2Data)
 data("NFL2007Standings")
 
 #-------PRIMEIRA UNIDADE-----------------------------------
